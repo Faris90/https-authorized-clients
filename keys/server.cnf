@@ -12,8 +12,8 @@ ST                     = MA
 L                      = Boston
 O                      = Example Co
 OU                     = techops
-CN                     = localhost
-emailAddress           = certs@example.com
+CN                     = vps-24921b2d.vps.ovh.ca
+emailAddress           = faris.soliman@yahoo.com
 
 [ req_attributes ]
 challengePassword      = password
